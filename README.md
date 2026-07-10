@@ -89,11 +89,13 @@ Alerts were investigated using:
 
 ### Authentication Failure Detection
 
-![SSH](images/ssh-authentication-failure.png)
+<img width="1440" height="815" alt="event" src="https://github.com/user-attachments/assets/cf83f921-2cd0-44f5-87e5-43ee1c20da9f" />
+
 
 ### MITRE ATT&CK Mapping
 
-![MITRE](images/mitre-mapping.png)
+<img width="1438" height="771" alt="Mitre att ck" src="https://github.com/user-attachments/assets/49c44663-97fb-4106-bdfc-6151860fb3d9" />
+
 
 
 ## Learning Outcomes
