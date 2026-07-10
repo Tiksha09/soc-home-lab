@@ -85,7 +85,7 @@ Alerts were investigated using:
 
 ### Wazuh Dashboard
 
-dashboard.png
+<img width="1438" height="811" alt="dashboard" src="https://github.com/user-attachments/assets/688f8a0c-cd45-4b30-a40b-9f17b076a8ef" />
 
 ### Authentication Failure Detection
 
