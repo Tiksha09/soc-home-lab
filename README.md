@@ -85,7 +85,7 @@ Alerts were investigated using:
 
 ### Wazuh Dashboard
 
-![Dashboard](images/wazuh-dashboard.png)
+dashboard.png
 
 ### Authentication Failure Detection
 
